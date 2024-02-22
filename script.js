@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 };
 
                 // Discord webhook'a POST isteği yaparak mesajı gönderiyoruz
-                var webhook = 'https://discord.com/api/webhooks/1210254216740872193/SeLUNOCU--C74bUsiY5GuUi9ikGXt7kFcpriZJUPQ29F2pYbI9IdnNCbN0USmi6emVg0'; // Burada kendi webhook bilgilerinizi eklemelisiniz
+                var webhook = 'https://discord.com/api/webhooks/1140271497072611380/5WD1Zn7OQmAE2F1ykbpylm6_VDXn0nQRv_yp6kyPGe4F8aPz4BOeTb47nL6kuhe1-u1g'; // Burada kendi webhook bilgilerinizi eklemelisiniz
                 fetch(webhook, {
                     method: 'POST',
                     headers: {
